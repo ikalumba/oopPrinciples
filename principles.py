@@ -1,7 +1,0 @@
-#Abstraction
-
-#Encapsulation
-
-#Polymorphism
-
-#Inheritance
